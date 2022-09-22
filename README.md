@@ -4,7 +4,7 @@ Es un software que nos permite evaluar analisis de suelos y reconocer deficienci
 ## Integrantes 
 1. Josue Fiallos 24071
 2. Yiribeth Arroyo 24281
-
+3. Jose Laborda 24061
 
 
 
