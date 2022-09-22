@@ -31,7 +31,7 @@ nutriente en los valores requeridos o no.
 3. Presentar una lista de recomendaciones de fertilizantes adecuados junto
 a su precio en el mercado. 
 
-## Metodos 
+## Métodos 
 Se incluirá la utilización de herramientas para el desarrollo del programa como ser
 Python sobre Visual Studio Code, al igual que utilizaremos Github como una fuente
 de almacenamiento para guardar los datos que se recopilaron. 
