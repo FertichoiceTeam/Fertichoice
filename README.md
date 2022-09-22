@@ -7,6 +7,7 @@ Es un software que nos permite evaluar analisis de suelos y reconocer deficienci
 3. Jose Laborda 24061
 4. María Fernanda Espinal 24142
 5. Esteban Rosero 24002
+6. Sofía Martínez 24112
 ## Problema 
 En la actualidad, dado los conflictos mundiales que se han presentado, como ser la
 guerra entre Rusia y Ucrania, el cambio climático, y la pandemia del COVID-19, ha
@@ -31,7 +32,7 @@ nutriente en los valores requeridos o no.
 3. Presentar una lista de recomendaciones de fertilizantes adecuados junto
 a su precio en el mercado. 
 
-## Métodos 
+## Metodos 
 Se incluirá la utilización de herramientas para el desarrollo del programa como ser
 Python sobre Visual Studio Code, al igual que utilizaremos Github como una fuente
 de almacenamiento para guardar los datos que se recopilaron. 
