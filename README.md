@@ -48,8 +48,7 @@ https://alumnizamoranomy.sharepoint.com/:b:/g/personal/ivanna_castillo_est_zamor
 # Referencias 
 Maradiaga, C. (2022, Junio 4). Crisis alimentaria en Honduras impacta a pequeños
 productores y aumenta precio de canasta básica. Contra Corriente. Retrieved
-September 12, 2022, from https://contracorriente.red/2022/06/03/crisis-alimentariaen-honduras-impacta-a-pequenos-productores-y-aumenta-precio-de-canastabasica/#:%7E:text=El%20incremento%20en%20un%20300,a%20toda%20la%20p
-oblaci%C3%B3n%20hondure%C3%B1a.
+September 12, 2022, from https://contracorriente.red/2022/06/03/crisis-alimentariaen-honduras-impacta-a-pequenos-productores-y-aumenta-precio-de-canastabasica/#:%7E:text=El%20incremento%20en%20un%20300,a%20toda%20la%20poblaci%C3%B3n%20hondure%C3%B1a.
 Alfaro, K. (2022, Mayo 11) Fertilizantes podrían subir hasta un 70 % más tras la
 invasión rusa Retrieved September 12, 2022, from
 https://www.eleconomista.net/actualidad/Fertilizantes-podrian-subir-hasta-un-70--
