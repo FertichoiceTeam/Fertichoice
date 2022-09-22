@@ -11,6 +11,7 @@ Es un software que nos permite evaluar analisis de suelos y reconocer deficienci
 7. Lorena Lopez 24265
 8. Ivanna Castillo 24115
 9. Martha Vilchez 24161
+10. Pierina Martinez 24258
 ## Problema 
 En la actualidad, dado los conflictos mundiales que se han presentado, como ser la
 guerra entre Rusia y Ucrania, el cambio climático, y la pandemia del COVID-19, ha
