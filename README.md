@@ -2,6 +2,7 @@
 Es un software que nos permite evaluar analisis de suelos y reconocer deficiencias nutricionales en los mismos. 
 
 ## Integrantes 
+1. Josue Fiallos 24071
 
 
 
